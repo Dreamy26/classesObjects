@@ -1,0 +1,6 @@
+/Users/dreamy/Projects/personalWork/classesObjects/Classes/bin/Debug/Classes.exe
+/Users/dreamy/Projects/personalWork/classesObjects/Classes/bin/Debug/Classes.pdb
+/Users/dreamy/Projects/personalWork/classesObjects/Classes/obj/Debug/Classes.csprojAssemblyReference.cache
+/Users/dreamy/Projects/personalWork/classesObjects/Classes/obj/Debug/Classes.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/personalWork/classesObjects/Classes/obj/Debug/Classes.exe
+/Users/dreamy/Projects/personalWork/classesObjects/Classes/obj/Debug/Classes.pdb

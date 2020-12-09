@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{D28A9DAD-CBFE-4E44-BA50-18B828116342}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/BankAccount.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/Transaction.cs">
     <Files>
-      <File FileName="Classes/Program.cs" Line="13" Column="1" />
-      <File FileName="Classes/BankAccount.cs" Line="1" Column="1" />
+      <File FileName="Classes/Program.cs" Line="10" Column="132" />
+      <File FileName="Classes/BankAccount.cs" Line="17" Column="33" />
+      <File FileName="Classes/Transaction.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="classesObjects" expanded="True">
             <Node name="Classes" expanded="True">
-              <Node name="BankAccount.cs" selected="True" />
+              <Node name="Transaction.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Classes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
